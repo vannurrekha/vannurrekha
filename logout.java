@@ -10,6 +10,11 @@ class Main {
 
     // add two numbers
     int sum = first + second;
+
+
+   //edited
     System.out.println("The sum is: " + sum);
+    
   }
+
 }
